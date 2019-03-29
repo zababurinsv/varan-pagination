@@ -1,9 +1,7 @@
 Web Component
 varan-pagination
 ====
-[![Build Status](https://travis-ci.org/wasdk/WebAssemblyStudio.svg?branch=master)](https://#)
-[![Coverage Status](https://coveralls.io/repos/github/wasdk/WebAssemblyStudio/badge.svg)](https://#) [![Maintainance Status](https://img.shields.io/badge/maintained-seldom-yellowgreen.svg)](https://#)
-
+[![Coverage Status](https://coveralls.io/repos/github/zababurinsv/varan-pagination/badge.svg?branch=master)](https://coveralls.io/github/zababurinsv/varan-pagination?branch=master)
  
 This repository contains the [Web Component](https://#) website source code.
 
